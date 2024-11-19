@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there, I'm Ariae! 
+Hey there, I'm Ariaee! 
 ---
 ## 👨🏻‍💻  About Me <br />
 🤔   Full-Stack Developer. <br />
