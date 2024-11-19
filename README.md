@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there, Shubham this side!
+Hey there, I'm Ariae!
 👨🏻‍💻  About Me
 🤔   Full-Stack Developer.
 💼   Core Skills (HTML, CSS, JavaScript, Vue JS, React JS), Backend (PHP, Laravel, Node.JS) and Data Structures Algorithms.
