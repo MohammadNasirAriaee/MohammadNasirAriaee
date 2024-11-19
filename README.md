@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📚 About Me
+
+👨‍💻 I'm an experienced Full-Stack Developer passionate about building efficient, scalable, and secure web applications. My expertise lies in combining back-end architecture with seamless front-end designs, ensuring user-friendly interfaces and robust performance.
+
+🌍 Over the last 5+ years, I have worked on diverse projects, including:
+
+    Employee Card Management System: Boosted efficiency by 80% for government entities using Laravel and Vue.js.
+    Document Management System: Enhanced document retrieval by 60%, ensuring secure access with Laravel and TailwindCSS.
+    NGCC Software: Automated daily operations for over 600 contact center agents at Etisalat Afghanistan.
+
+📖 I am always learning and staying updated with the latest in technology, from GraphQL APIs to modern JavaScript frameworks.
