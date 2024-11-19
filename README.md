@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **MohammadNasirAriaee/mohammadnasirariaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,14 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 About Me
+Hey there, Shubham this side!
+👨🏻‍💻  About Me
+🤔   Full-Stack Developer.
+💼   Core Skills (HTML, CSS, JavaScript, Vue JS, React JS), Backend (PHP, Laravel, Node.JS) and Data Structures Algorithms.
+🌱   Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
+⚡️   Fun fact: I really like to explore new restaurants.
+🛠  Languages and Tools
+JavaScript VueJs ReactJs NextJs
+HTML5 CSS3 Bootstrap5 Tailwind CSS
+PHP Laravel
+MySQL PostgreSQL MongoDB
+Git GitHub Linux Visual Studio Code Postman
 
-👨‍💻 I'm an experienced Full-Stack Developer passionate about building efficient, scalable, and secure web applications. My expertise lies in combining back-end architecture with seamless front-end designs, ensuring user-friendly interfaces and robust performance.
+⚙️  GitHub Analytics
+<p align="center">
+  <a href="https://github.com/mohammadnasirariaee">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadnasirariaee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadnasirariaee&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  </a>
+</p>
 
-🌍 Over the last 5+ years, I have worked on diverse projects, including:
-
-    Employee Card Management System: Boosted efficiency by 80% for government entities using Laravel and Vue.js.
-    Document Management System: Enhanced document retrieval by 60%, ensuring secure access with Laravel and TailwindCSS.
-    NGCC Software: Automated daily operations for over 600 contact center agents at Etisalat Afghanistan.
-
-📖 I am always learning and staying updated with the latest in technology, from GraphQL APIs to modern JavaScript frameworks.
