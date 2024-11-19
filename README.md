@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there, I'm Ariae!
-👨🏻‍💻  About Me
-🤔   Full-Stack Developer.
-💼   Core Skills (HTML, CSS, JavaScript, Vue JS, React JS), Backend (PHP, Laravel, Node.JS) and Data Structures Algorithms.
-🌱   Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
-⚡️   Fun fact: I really like to explore new restaurants.
-🛠  Languages and Tools
+Hey there, I'm Ariae! 
+---
+## 👨🏻‍💻  About Me <br />
+🤔   Full-Stack Developer. <br />
+💼   Core Skills (HTML, CSS, JavaScript, Vue JS, React JS), Backend (PHP, Laravel, Node.JS) and Data Structures Algorithms. <br />
+🌱   Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms. <br />
+⚡️   Fun fact: I really like to explore new restaurants.<br />
+
+## 🛠  Languages and Tools 
 JavaScript VueJs ReactJs NextJs
 HTML5 CSS3 Bootstrap5 Tailwind CSS
 PHP Laravel
@@ -29,7 +31,7 @@ Git GitHub Linux Visual Studio Code Postman
 ⚙️  GitHub Analytics
 <p align="center">
   <a href="https://github.com/mohammadnasirariaee">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadnasirariaee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadnasirariaee&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadnasirariaee&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
   </a>
 </p>
