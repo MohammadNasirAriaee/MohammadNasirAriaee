@@ -31,8 +31,8 @@ Git GitHub Linux Visual Studio Code Postman <br />
 ⚙️  GitHub Analytics
 <p align="center">
   <a href="https://github.com/mohammadnasirariaee">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadnasirariaee&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadnasirariaee&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadNasirAriaee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadNasirAriaee&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
   </a>
 </p>
 
