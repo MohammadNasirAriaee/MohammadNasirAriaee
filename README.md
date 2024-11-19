@@ -17,16 +17,16 @@ Hey there, I'm Ariaee!
 ---
 ## 👨🏻‍💻  About Me <br />
 🤔   Full-Stack Developer. <br />
-💼   Core Skills (HTML, CSS, JavaScript, Vue JS, React JS), Backend (PHP, Laravel, Node.JS) and Data Structures Algorithms. <br />
-🌱   Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms. <br />
-⚡️   Fun fact: I really like to explore new restaurants.<br />
+💼   Core Skills Frontend (HTML, CSS, JavaScript, Vue JS, React JS), Backend (PHP, Laravel, Node.JS) and Data Structures Algorithms. <br />
+🌱   Learning more about Entrepreneurship, Online Businesses, Automations and Algorithms. <br />
+⚡️   Fun fact: I enjoy exploring new restaurants.<br />
 
 ## 🛠  Languages and Tools 
-JavaScript VueJs ReactJs NextJs
-HTML5 CSS3 Bootstrap5 Tailwind CSS
-PHP Laravel
-MySQL PostgreSQL MongoDB
-Git GitHub Linux Visual Studio Code Postman
+JavaScript VueJs ReactJs NextJs <br />
+HTML5 CSS3 Bootstrap5 Tailwind CSS <br />
+PHP Laravel <br />
+MySQL PostgreSQL MongoDB <br />
+Git GitHub Linux Visual Studio Code Postman <br />
 
 ⚙️  GitHub Analytics
 <p align="center">
